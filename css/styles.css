@@ -1,0 +1,90 @@
+header {
+  width: 100%;
+}
+
+.header_title {
+  line-height: 5px;
+  color: #202020;
+  font-family: 'Unica One';
+}
+
+.header_description {
+  line-height: 5px;
+  font-family: 'Quicksand';
+  font-weight: 400;
+  color: #3681C4;
+}
+
+.intro {
+  width: 100%;
+}
+
+.main_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding-top: 20px;
+}
+
+p.intro_paragraph {
+  font-family: 'Quicksand';
+  font-weight: 400;
+  color: #202020;
+}
+
+.pink {
+  color: #FE9172;
+}
+
+.blue {
+  color: #3681C4;
+}
+
+.yellow {
+  color: #D0B414;
+}
+
+.featured_work_header {
+  width: 100%;
+  font-family: 'Unica One';
+  color: #D0B414;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.featured_work {
+  max-width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.project {
+  width: 30%;
+  margin: auto;
+}
+
+.project_image {
+  width: 100%;
+}
+
+.project_title {
+  font-family: 'Quicksand';
+  font-weight: 400;
+  color: #202020;
+  margin-top: 1px;
+  margin-bottom: 20px;
+}
+
+a:link,
+a:hover,
+a:visited {
+  text-decoration: none;
+  text-decoration: none;
+  font-weight: lighter;
+  font-family: 'Quicksand';
+}
+
+a:hover {
+  background-color: #D0B414;
+}
